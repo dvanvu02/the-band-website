@@ -20,7 +20,7 @@ Built to practice **HTML, CSS, JavaScript**.
 
 ## 📂 Project Structure
 
-### ✅ Screenshots
+## ✅ Screenshots
 _Homepage_
 ![Homepage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Homepage.png)
 
@@ -32,5 +32,9 @@ _Tourpage_
 
 _Contactpage_
 ![Contactpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Contactpage.png)
+
+## 📖 Learning Outcomes
+- Improved skills in **responsive web design**.    
+- Practiced UI/UX basics.  
 
 #### @dvanvu02
