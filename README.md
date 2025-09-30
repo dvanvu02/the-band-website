@@ -1,7 +1,6 @@
 # Welcome to The Band Website
 ## 📌 Overview
-- A **responsive static page** built using **HTMl, CSS, and JavaScript**.for a music band, inspired by W3Schools templates.  
-- Built to practice **HTML, CSS, JavaScript**.  
+- A **responsive static page** built using **HTML5, CSS3, and JavaScript** for a music band, inspired by W3Schools templates.  
 ## 🎸 Features
 - Section design: Homepage, About, Tour, Contact, Footer.
 - Navigation bar with smooth scrolling
@@ -46,6 +45,12 @@ _Tourpage_
 _Contactpage_
 ![Contactpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Contactpage.png)
 ## 📖 Learning Outcomes
-- Improved skills in **responsive web design**.    
+- Practiced **responsive web design** with **HTML** & **CSS**.
+- Improved **JavaScript DOM manipulation** skills.
+- Learned project deployment using GitHub Pages.
 - Practiced UI/UX basics.  
+## 💡 Future Improvements
+- Add a dark mode toggle.
+- Integrate a backend for ticket booking.
+- Improve animations and transitions.
 #### @dvanvu02
