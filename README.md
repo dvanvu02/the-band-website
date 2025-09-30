@@ -28,7 +28,7 @@ the-band-website/
 
    ```bash
    git clone https://github.com/dvanvu02/the-band-website.git
-
+   ```
 
 2. Open index.html in your browser. 
 
