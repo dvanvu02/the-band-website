@@ -14,15 +14,12 @@
 ```plaintext
 the-band-website/
  ├── index.html        # Homepage of the website
- |
  ├── assets/           # Images, icons, fonts
  │   ├── img/          # Band pictures, tour images
  │   └── css/          # Stylesheets
  │       └── style.css
- |
  ├── js/               # JavaScript files
  │   └── script.js
- |
  └── README.md         # Project documentation
 ```
 ## ▶️ How to Run Locally
